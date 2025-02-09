@@ -18,3 +18,8 @@ this repo is where i store my projects made in creative coding: python
 
 <!-- ![a baby cow](cow1.jpg) -->
 <img src="cow1.jpg" width="100" alt="a baby cow">
+
+### assignment 2: 
+for this assignment, i recreated edward rucscha's *OOF*, which he completed in 1962. 
+
+<img src="assignment_2.jpg" width="200" alt="oof">
