@@ -23,3 +23,8 @@ this repo is where i store my projects made in creative coding: python
 for this assignment, i recreated edward rucscha's *OOF*, which he completed in 1962. 
 
 <img src="assignment_2.jpg" width="200" alt="oof">
+
+### assignment 3: 
+for this assignment, i changed the character that is making the shape of the triangles and the width of the postions 
+
+<img src="assignment 3.png" width="200"  alt="triangles"> 
