@@ -28,3 +28,14 @@ for this assignment, i recreated edward rucscha's *OOF*, which he completed in 1
 for this assignment, i changed the character that is making the shape of the triangles and the width of the postions 
 
 <img src="assignment 3.png" width="200"  alt="triangles"> 
+
+### assignment 4:
+for this assignment, i was inspired by vera molnar's 1985 piece, *untitled*, by adapting some code from [this site](https://www.101computing.net/vera-molnar-artwork-revisited-using-python/). i changed the number of columns, adjusted the shapes into squares, and made them pink! 
+
+the inspiration: 
+
+<img src="untitled.png" width="200" alt="untitled_molnar">
+
+my output: 
+
+<img src="assignment_4.png" width="200" alt="rectangles">
