@@ -49,4 +49,4 @@ this is what the game ended up looking like:
 
 and here is a close up of the robot :) 
 
-<img src= "robot-run.gif" width ="200" alt="robot-run>
+<img src= "robot-run.gif" width ="200" alt="robot-run">
