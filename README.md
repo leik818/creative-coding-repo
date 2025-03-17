@@ -39,3 +39,14 @@ the inspiration:
 my output: 
 
 <img src="assignment_4.png" width="200" alt="rectangles">
+
+### assignment 5
+for this assignment, i used assets from [opengameart.org](https://opengameart.org/) to make a game where a [little robot](https://opengameart.org/content/pixel-robot) eats [gears](https://opengameart.org/content/gear-pixel-art-32x32) for his breakfast. for fun, i made the [background](https://opengameart.org/content/arcade-carpet-textures) the same pattersn as old arcade carpet, and added a little [background music](https://opengameart.org/content/cute-bytes-ost-cheers-for-starlight). 
+
+this is what the game ended up looking like: 
+
+<img src="assignment_5_sc.png" width="200" alt="robot_breakfast">
+
+and here is a close up of the robot :) 
+
+<img src= "robot-run.gif" width ="200" alt="robot-run>
