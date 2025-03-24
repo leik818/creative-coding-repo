@@ -50,3 +50,8 @@ this is what the game ended up looking like:
 and here is a close up of the robot :) 
 
 <img src= "robot-run.gif" width ="200" alt="robot-run">
+
+### assignment 6 
+for this assignment, i looked at a data set from [opendata.nyc]( https://opendata.cityofnewyork.us/) that has data on affordable housing production by building, that count towards the goals of either the *housing new york* or *housing our neighbors* plans. i wanted to see which borough had the most new units built, and how many total units were created under these plans. i was suprised to see how few units were built in staten island! 
+
+<img src= "assignment6_chart.png" width="500" alt="chart">
