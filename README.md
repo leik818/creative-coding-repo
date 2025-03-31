@@ -55,3 +55,10 @@ and here is a close up of the robot :)
 for this assignment, i looked at a data set from [opendata.nyc]( https://opendata.cityofnewyork.us/) that has data on [affordable housing production by building](https://data.cityofnewyork.us/Housing-Development/Affordable-Housing-Production-by-Building/hg8x-zxpr/about_data), that count towards the goals of either the *housing new york* or *housing our neighbors* plans. i wanted to see which borough had the most new units built, and how many total units were created under these plans. i was suprised to see how few units were built in staten island! 
 
 <img src= "assignment6_chart.png" width="500" alt="chart">
+
+### assignment 7 
+for this assignment, i tried to scrape images from one of my favorite artists'[wikipedia page](https://en.wikipedia.org/wiki/David_Wojnarowicz). oddly, his page only had one image though! i struggled to get the directory for the images to work, but i think i got there in the end. 
+
+david: 
+
+<img src= "David_Wojnarowicz.jpg" width="200" alt="david">
