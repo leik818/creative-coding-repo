@@ -62,3 +62,7 @@ for this assignment, i tried to scrape images from one of my favorite artists'[w
 david: 
 
 <img src= "David_Wojnarowicz.jpg" width="200" alt="david">
+
+
+### assignment 9 
+for this assignment, i tried to combine some of the interface layout code and bad ui we went over in class. i edited the phone dial code so that random numbers would pop up instead of the number you actually wanted to press. 
