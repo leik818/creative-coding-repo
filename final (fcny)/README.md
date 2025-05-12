@@ -59,7 +59,7 @@ From 2007 to 2022, the majority of buildings containing rent-stabilized units in
 
  <img src="2007.png" width="350" alt="loss 2007">  <img src="2020.png" width="400" alt="loss 2020"> 
 
-   #### *Figure 5a: SAny building with at least one rent stabilized unit (2007)* Figure 5b: Any building that lost at least one rent stabilized unit (2007-2020)*
+   #### *Figure 5a: SAny building with at least one rent stabilized unit (2007) Figure 5b: Any building that lost at least one rent stabilized unit (2007-2020)*
 
 This loss reflects not isolated cases, but a consistent trend of rent-stabilized units steadily converting to market-rate housing across most apartment buildings containing this type of rent regulated housing throughout the district.  In 2007, the average number of rent stabilized units in a building in CB2 was 12, but in 2022, it was down to just 5 units. On average, over this time period, buildings lost 6 rent stabilized units, which would typically make up half of the units in the buildings. CB2 saw a net loss of 4,432 rent stabilized units, which is most likely an underestimation due to the issues with the data around additions of rent stabilized units. More likely, this number is closer to a total loss of at least 6,407 units over this time period. 
 
