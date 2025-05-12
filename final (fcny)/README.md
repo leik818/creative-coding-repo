@@ -46,7 +46,7 @@ A key question to understand when identifying trends in affordable housing is no
 
   Additionally, the expiration of 421-a tax benefits, a program initially designed to incentivize the development of affordable housing, has led to thousands of units reverting to market rate once compliance periods end. After 2019, this became the most significant reason units were removed from rent stabilization [(Figure 4)](https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2023/05/2023-Changes-Report.pdf).
   
-  <img src="pie_2023.png" width="500" alt="loss 2017">
+  <img src="pie_2023.png" width="435" alt="loss 2017">
 
   #### *Figure 4: Subtractions from Rent Stabilized Units, 2023* 
   
